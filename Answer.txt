@@ -137,12 +137,13 @@ Debian Server
 Windows Server 2018
  
  
- 19) Which of the following operating systems are supported by cPanel & WHM's official system requirements?
+ 19) Which of the following features found in the cPanel account interface will allow a cPanel account user to create subaccounts to give email, FTP, and webdisk access to additional users?
 
-CentOS Server --
-Ubuntu Server
-Debian Server
-Windows Server 2018
+Aliases
+User Manager --
+Contact Information
+File Manager
+ 
  
  
  20) Which of the following utilities does EasyApache use to quickly download and install its pre-packaged software from cPanel's official, secure online sources?
